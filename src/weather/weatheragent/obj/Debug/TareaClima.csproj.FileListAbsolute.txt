@@ -1,0 +1,7 @@
+C:\Users\Lesther\Documents\Visual Studio 2012\Projects\Clima\TareaClima\Bin\Debug\TareaClima.dll
+C:\Users\Lesther\Documents\Visual Studio 2012\Projects\Clima\TareaClima\Bin\Debug\TareaClima.pdb
+C:\Users\Lesther\Documents\Visual Studio 2012\Projects\Clima\TareaClima\obj\Debug\TareaClima.dll
+C:\Users\Lesther\Documents\Visual Studio 2012\Projects\Clima\TareaClima\obj\Debug\TareaClima.pdb
+C:\Users\Lesther\documents\visual studio 2012\Projects\Clima\TareaClima\obj\Debug\TareaClima.csprojResolveAssemblyReference.cache
+C:\Users\Lesther\documents\visual studio 2012\Projects\Clima\TareaClima\Bin\Debug\Common.dll
+C:\Users\Lesther\documents\visual studio 2012\Projects\Clima\TareaClima\Bin\Debug\Common.pdb

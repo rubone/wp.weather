@@ -1,0 +1,14 @@
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\TareaClima\Bin\Debug\weatheragent.dll
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\TareaClima\Bin\Debug\weatheragent.pdb
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\TareaClima\Bin\Debug\common.dll
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\TareaClima\Bin\Debug\common.pdb
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\TareaClima\obj\Debug\weatheragent.csprojResolveAssemblyReference.cache
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\TareaClima\obj\Debug\weatheragent.dll
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\TareaClima\obj\Debug\weatheragent.pdb
+E:\Project Source\Diplomado WP8\Tarea#4\weather\weatheragent\Bin\Debug\weatheragent.dll
+E:\Project Source\Diplomado WP8\Tarea#4\weather\weatheragent\Bin\Debug\weatheragent.pdb
+E:\Project Source\Diplomado WP8\Tarea#4\weather\weatheragent\Bin\Debug\common.dll
+E:\Project Source\Diplomado WP8\Tarea#4\weather\weatheragent\Bin\Debug\common.pdb
+E:\Project Source\Diplomado WP8\Tarea#4\weather\weatheragent\obj\Debug\weatheragent.csprojResolveAssemblyReference.cache
+E:\Project Source\Diplomado WP8\Tarea#4\weather\weatheragent\obj\Debug\weatheragent.dll
+E:\Project Source\Diplomado WP8\Tarea#4\weather\weatheragent\obj\Debug\weatheragent.pdb

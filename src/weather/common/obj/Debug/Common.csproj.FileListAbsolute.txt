@@ -1,0 +1,12 @@
+C:\Users\Lesther\documents\visual studio 2012\Projects\Clima\Common\Bin\Debug\Common.dll
+C:\Users\Lesther\documents\visual studio 2012\Projects\Clima\Common\Bin\Debug\Common.pdb
+C:\Users\Lesther\documents\visual studio 2012\Projects\Clima\Common\obj\Debug\Common.dll
+C:\Users\Lesther\documents\visual studio 2012\Projects\Clima\Common\obj\Debug\Common.pdb
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\Common\Bin\Debug\common.dll
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\Common\Bin\Debug\common.pdb
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\Common\obj\Debug\common.dll
+E:\Project Source\Diplomado WP8\Tarea#4\Clima\Common\obj\Debug\common.pdb
+E:\Project Source\Diplomado WP8\Tarea#4\weather\common\Bin\Debug\common.dll
+E:\Project Source\Diplomado WP8\Tarea#4\weather\common\Bin\Debug\common.pdb
+E:\Project Source\Diplomado WP8\Tarea#4\weather\common\obj\Debug\common.dll
+E:\Project Source\Diplomado WP8\Tarea#4\weather\common\obj\Debug\common.pdb

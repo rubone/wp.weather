@@ -1,0 +1,68 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Clima.Configuracion"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+      xmlns:vm="clr-namespace:common.ViewModel;assembly=common"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+
+    <phone:PhoneApplicationPage.Resources>
+        <vm:weatherViewModel x:Key="WeatherViewModel"/>
+    </phone:PhoneApplicationPage.Resources>
+
+    <Grid x:Name="LayoutRoot">
+    
+        <phone:Panorama>
+            <phone:PanoramaItem Header="Settings">
+               
+            <StackPanel >
+        <Grid >
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBox x:Name="txtCiudad"  
+                     Height="70" FontSize="18" 
+                     Grid.Column="0" Grid.Row="0">                
+            </TextBox>
+            <Button Content="Save" 
+                    Height="70" 
+                    FontSize="18" 
+                    Grid.Column="0" 
+                    Grid.Row="1" 
+                    Foreground="White"  
+                    Command="{Binding GetFotosCommand}" 
+                    Click="Button_Click" />
+            
+            <CheckBox x:Name="ckActualizaciones" 
+                      Content="Automatics Update" 
+                      Grid.Column="0" 
+                      Grid.Row="2" 
+                      Grid.ColumnSpan="2" IsChecked="True">
+                
+                
+            </CheckBox>
+        </Grid>
+
+
+
+
+    </StackPanel>
+                
+            </phone:PanoramaItem>
+        </phone:Panorama>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>
